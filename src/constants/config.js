@@ -1,0 +1,1 @@
+export const BASE_URL ="https://nice-gray-seal-yoke.cyclic.app/"
